@@ -42,7 +42,10 @@ A compact and clever parking sensor system using the **ESP32-C6**, 3 input senso
 
 ---
 
-## Developers: 
+## Developers
+
 Justine Juliana G. Balla
+
 Rean Joy S. Cicat
+
 Mikylla B. Fabro
